@@ -19,7 +19,7 @@
       "profession": "软件测试工程师"
     }
   ],
-  "profession": ["软件开发工程师", "软件开发工程师", "前端开发工程师", "后端开发工程师", "JAVA开发工程师", "C++开发工程师", "Python开发工程师", "NodeJS开发工程师", "C开发工程师", "JavaScript开发工程师", "PHP开发工程师"],
+  "profession": ["软件开发工程师", "软件测试工程师", "前端开发工程师", "后端开发工程师", "JAVA开发工程师", "C++开发工程师", "Python开发工程师", "NodeJS开发工程师", "C开发工程师", "JavaScript开发工程师", "PHP开发工程师"],
   "language": ["JavaScript", "AngularJS", "Vue.js", "React", "TypeScript", "jQuery EasyUI", "Node.js", "PHP", "Python", "Ruby", "Java", "C", "C++", "Perl", "Servlet", "JSP", "Lua", "Scala", "Go", "ASP", "SQL", "Mysql", "PostgreSQL", "SQLite", "MongoDB", "Redis", "Memcached", "ASP NET", "C#"],
   "language-other": ["HTML", "CSS", "XML", "Bootstrap", "jQuery", "AJAX", "JSON", "Highcharts", "Android", "jQuery Mobile", "ionic", "SVG", "HTTP", "TCP/IP", "Django", "Linux", "Docker"]
 }
