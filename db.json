@@ -1,0 +1,24 @@
+{
+  "person": [
+    {
+      "id": 1,
+      "name": "冰少",
+      "age": 30,
+      "sex": 0,
+      "phone": "13286866868",
+      "address": "湖北省武汉市",
+      "profession": "软件开发工程师"
+    },
+    {
+      "id": 2,
+      "name": "冰恋",
+      "age": 30,
+      "sex": 1,
+      "phone": "18686866868",
+      "address": "河南省驻马店市",
+      "profession": "软件测试工程师"
+    }
+  ],
+  "profession": ["软件开发工程师", "软件开发工程师", "前端开发工程师", "后端开发工程师", "JAVA开发工程师", "C++开发工程师", "Python开发工程师", "NodeJS开发工程师", "C开发工程师", "JavaScript开发工程师", "PHP开发工程师"],
+  "language": ["HTML5", "CSS3", "JavaScript", "XML", "Bootstrap", "jQuery", "AngularJS", "Vue.js", "React", "TypeScript", "jQuery EasyUI", "Node.js", "AJAX", "JSON", "Highcharts", "PHP", "Python", "Django", "Linux", "Docker", "Ruby", "Java", "C", "C++", "Perl", "Servlet", "JSP", "Lua", "Scala", "Go", "ASP", "SQL", "Mysql", "PostgreSQL", "SQLite", "MongoDB", "Redis", "Memcached", "Android", "jQuery Mobile", "ionic", "SVG", "ASP NET", "C#", "HTTP", "TCP/IP"]
+}
